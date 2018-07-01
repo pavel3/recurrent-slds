@@ -1,3 +1,4 @@
+# coding=utf-8
 import numpy as np
 
 from pyhsmm.models import _HMMGibbsSampling, _HMMEM, _HMMMeanField
